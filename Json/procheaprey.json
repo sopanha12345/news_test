@@ -1,0 +1,2062 @@
+[
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/h1oTyHHn0rDg2qw0FT2Z2pMt9cw\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS41NkI0NEY2RDEwNTU3Q0M2",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Death toll rises to 81 as China extends holiday - BBC News",
+      "description": "The number of people killed in China by the new coronavirus has risen to 81, with almost 3,000 confirmed ill.\n\nThe national new year holiday has been extended by three days to Sunday, in an attempt to contain the spread.\n\nOn Monday, Chinese Premier Li Keqiang visited Wuhan, the capital of Hubei province and centre of the outbreak.\n\nThe number of deaths in Hubei rose from 56 to 76, with five deaths elsewhere. Wuhan is in lockdown and several other cities have imposed travel bans.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/S2VoEvDEuxw\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/S2VoEvDEuxw\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/S2VoEvDEuxw\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/S2VoEvDEuxw\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/S2VoEvDEuxw\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "S2VoEvDEuxw"
+      }
+    },
+    "contentDetails": {
+      "videoId": "S2VoEvDEuxw",
+      "videoPublishedAt": "2020-01-27T10:35:49.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/WsekniAr3bdskW2rtdyWZ1rmNko\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4yODlGNEE0NkRGMEEzMEQy",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "China coronavirus 'spreads before symptoms show' - BBC News",
+      "description": "A new coronavirus that has spread to almost 2,000 people is infectious in its incubation period - before symptoms show - making it harder to contain, Chinese officials say.\n\nSome 56 people have died from the virus. Health minister Ma Xiaowei told reporters the ability of the virus to spread appeared to be strengthening.\n\nSeveral Chinese cities have imposed significant travel restrictions.\n\nWuhan in Hubei, the source of the outbreak, is in effective lockdown\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/0jAWPcyPFQc\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/0jAWPcyPFQc\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/0jAWPcyPFQc\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/0jAWPcyPFQc\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/0jAWPcyPFQc\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0jAWPcyPFQc"
+      }
+    },
+    "contentDetails": {
+      "videoId": "0jAWPcyPFQc",
+      "videoPublishedAt": "2020-01-26T10:40:33.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/3aGeWJER8YSrqA4N6tUKkRR0Dak\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4wMTcyMDhGQUE4NTIzM0Y5",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "China coronavirus: The virus spread to Europe with 3 cases confirmed in France - BBC News",
+      "description": "The death toll from a newly-discovered coronavirus in China has risen to 41 on the day of the Lunar New Year.\n\nAnother 15 deaths in the Hubei province, where the outbreak began, were announced on Saturday.\n\nHealth officials are struggling to contain the outbreak as millions of people travel for the new year festival, one of the most important dates in its calendar.\n\nThere are now more than 1,200 confirmed cases in China.\n\nThe virus has also now spread to Europe, with three cases confirmed in France. The UK is investigating a number of suspected cases, while officials there are trying to trace around 2,000 people who have recently flown to the UK from Hubei province.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/1RDTNdA_TL4\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/1RDTNdA_TL4\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/1RDTNdA_TL4\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/1RDTNdA_TL4\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/1RDTNdA_TL4\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "1RDTNdA_TL4"
+      }
+    },
+    "contentDetails": {
+      "videoId": "1RDTNdA_TL4",
+      "videoPublishedAt": "2020-01-25T09:24:31.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/3Epvpp0M5kIxxxMuxBL9v8Mdxv8\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS41MjE1MkI0OTQ2QzJGNzNG",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "China coronavirus: Death toll rises as more cities restrict travel - BBC News",
+      "description": "China has widened its travel restrictions in Hubei province - the centre of the coronavirus outbreak - as the death toll climbed to 26.\n\nThe restrictions will affect at least 20 million people across 10 cities, including the capital, Wuhan, where the virus emerged.\n\nOn Thursday, a coronavirus patient died in northern Hebei province - making it the first death outside Hubei.\n\nAnother death was later confirmed in north-east Heilongjiang province.\n\nThe province borders Russia and is more than 2,000 kilometres (1,200 miles) from Wuhan.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ug1ZIHkxT8g\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ug1ZIHkxT8g\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ug1ZIHkxT8g\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ug1ZIHkxT8g\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ug1ZIHkxT8g\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ug1ZIHkxT8g"
+      }
+    },
+    "contentDetails": {
+      "videoId": "Ug1ZIHkxT8g",
+      "videoPublishedAt": "2020-01-24T12:22:26.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/bCk-v01f55HZPZNmip9HeEzr5jg\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4wOTA3OTZBNzVEMTUzOTMy",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "China coronavirus: Authorities shut major tourist sites including the Forbidden City- BBC News",
+      "description": "China has widened its travel restrictions in Hubei province - the centre of the coronavirus outbreak - as the death toll climbed to 26.\n\nThe restrictions will affect at least 20 million people across 10 cities, including the capital Wuhan, where the virus emerged.\n\nOn Thursday, a coronavirus patient died in nearby Hebei province - making it the first death outside Hubei.\n\nAnother death was later confirmed in north-east Heilongjiang province.\n\nThe province borders Russia and is more than 2,000 kilometres (1,200 miles) from Wuhan.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/410dkXABTUU\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/410dkXABTUU\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/410dkXABTUU\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/410dkXABTUU\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/410dkXABTUU\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "410dkXABTUU"
+      }
+    },
+    "contentDetails": {
+      "videoId": "410dkXABTUU",
+      "videoPublishedAt": "2020-01-24T10:45:09.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/pjegNNmxUM6cuunmWwxo1fg_P5E\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4xMkVGQjNCMUM1N0RFNEUx",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "China coronavirus: Beijing cancelled Chinese New Year celebrations - BBC News",
+      "description": "Lockdown measures are increasing across China's Hubei province to try to control the spread of a new virus that has left 17 people dead.\n\nWuhan, Hubei's capital of 11 million people where the virus first emerged, has no trains or planes in or out.\n\nAt least four other provincial cities are seeing clampdowns on transport.\n\nThere are more than 500 confirmed cases of the virus, which has spread abroad, with Singapore, Saudi Arabia and Vietnam the latest affected.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/stlFd_Z4FMM\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/stlFd_Z4FMM\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/stlFd_Z4FMM\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/stlFd_Z4FMM\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/stlFd_Z4FMM\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "stlFd_Z4FMM"
+      }
+    },
+    "contentDetails": {
+      "videoId": "stlFd_Z4FMM",
+      "videoPublishedAt": "2020-01-23T15:13:34.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/IG7QQYcw2YTCUaAikpiA_uPI6zE\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS41MzJCQjBCNDIyRkJDN0VD",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Chinese city to shut public transport - BBC News",
+      "description": "A Chinese city of nearly 11 million people is to temporarily shut public transport as it tries to halt the outbreak of a new virus. The coronavirus outbreak has killed 17 people so far, and there are more than 500 confirmed cases.\n\nThose living in the city of Wuhan have been advised not to leave, as millions of people are due to travel for the upcoming Lunar New Year holiday. The airport and train stations will also be closed to outgoing passengers.\n\nPart of the BBC News at Ten\u2019s coverage, presented by Huw Edwards, with reporting from our medical correspondent Fergus Walsh. \n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/D-pJ30r1XZ0\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/D-pJ30r1XZ0\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/D-pJ30r1XZ0\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "D-pJ30r1XZ0"
+      }
+    },
+    "contentDetails": {
+      "videoId": "D-pJ30r1XZ0",
+      "videoPublishedAt": "2020-01-22T22:20:05.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/8YDy-oManqaZl9GF1GCCwrtgjmE\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5DQUNERDQ2NkIzRUQxNTY1",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: China warns against travel to virus-hit Wuhan - BBC News",
+      "description": "Chinese authorities have urged people to stop travelling in and out of Wuhan, the city at the centre of a new virus outbreak that has killed nine.\n\nThose living in the city of 8.9 million people have also been told to avoid crowds and minimise public gatherings.\n\nThe new virus has spread from Wuhan to several Chinese provinces, as well as the US, Thailand and South Korea.\n\nThere are 440 confirmed cases, with the origin a seafood market that \"conducted illegal transactions of wild animals\".\n\n\"Basically, do not go to Wuhan. And those in Wuhan please do not leave the city,\" said National Health Commission vice-minister Li Bin in one of the first public briefings since the beginning of the outbreak.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/XO4DTkIwBP4\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/XO4DTkIwBP4\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/XO4DTkIwBP4\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/XO4DTkIwBP4\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/XO4DTkIwBP4\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "XO4DTkIwBP4"
+      }
+    },
+    "contentDetails": {
+      "videoId": "XO4DTkIwBP4",
+      "videoPublishedAt": "2020-01-22T11:28:02.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/NHPo7tbeczG9BxNJ9HtVq6JJMGE\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS45NDk1REZENzhEMzU5MDQz",
+    "snippet": {
+      "publishedAt": "2020-01-27T10:41:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "New China virus: Cases triple as infection spreads to Beijing and Shanghai - BBC News",
+      "description": "A fourth person in China has died from a new virus that has spread rapidly across the country, as authorities confirmed that it can be passed from person-to-person.\n\nA 89-year-old man was the latest victim of the new strain of coronavirus, which causes a type of pneumonia.\n\nHe lived in Wuhan, the city at the centre of the outbreak.\n\nMore than 200 cases have now been reported across major cities in China including Beijing and Shanghai.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/yyiHDbciNwI\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/yyiHDbciNwI\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/yyiHDbciNwI\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/yyiHDbciNwI\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/yyiHDbciNwI\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "yyiHDbciNwI"
+      }
+    },
+    "contentDetails": {
+      "videoId": "yyiHDbciNwI",
+      "videoPublishedAt": "2020-01-21T07:27:26.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/7ANU1Yg26TImFOQ4kcUqrMH-iU4\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5GNjNDRDREMDQxOThCMDQ2",
+    "snippet": {
+      "publishedAt": "2020-01-28T07:01:43.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Companies tell workers 'stay at home' - BBC News",
+      "description": "The death toll from the new coronavirus now stands at 106, as cases of new infections have almost doubled in a day, Chinese authorities said.\n\nThe number of total confirmed cases in China rose to 4,515 as of 27 January, up from 2,835 a day earlier.\n\nTravel restrictions have been tightened and wearing masks in public is now mandatory in some cities.\n\nThe city of Wuhan is at the epicentre of the outbreak but it has spread across China and internationally.\n\nWuhan, and the Hubei province it is located in, are already effectively in a lockdown with transport restrictions in and out of the area.\n\nOn Monday, authorities in Beijing confirmed a 50-year-old man had died - the first fatality in the Chinese capital from the virus.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/GfxLB1PVF-M\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/GfxLB1PVF-M\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/GfxLB1PVF-M\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/GfxLB1PVF-M\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/GfxLB1PVF-M\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "GfxLB1PVF-M"
+      }
+    },
+    "contentDetails": {
+      "videoId": "GfxLB1PVF-M",
+      "videoPublishedAt": "2020-01-28T07:01:35.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/bTps6mZsh42KCWMDUp_riLwbR14\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS40NzZCMERDMjVEN0RFRThB",
+    "snippet": {
+      "publishedAt": "2020-01-28T10:23:26.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Death toll from China virus outbreak passes 100 - BBC News",
+      "description": "The death toll from the new coronavirus now stands at 106, with the number of infections almost doubling in a day to more than 4,500.\n\nThe rise comes as governments scramble to control the spread of the virus. Hong Kong is going to slash cross-border travel with mainland China.\n\nMeanwhile, Japan is sending a plane to Wuhan, the epicentre of the outbreak, to evacuate its citizens\n\nThe virus has spread across China and to at least 16 countries globally.\n\nHong Kong has announced plans to slash cross-border travel between the city and mainland China as the new coronavirus continues to spread.\n\nMore than 100 people have now died in China, with confirmed infections surging to more than 4,500.\n\nHigh-speed trains and ferries that cross the border will be suspended from Thursday, Hong Kong leader Carrie Lam announced. She wore a face mask.\n\nThe virus has spread across China and to at least 16 countries globally.\n\nSeveral foreign governments with large numbers of citizens in Wuhan, the epicentre of the outbreak, are considering evacuations. Japan is sending a plane later on Tuesday.\n\nWuhan, as well as the wider Hubei province, are already effectively in a lockdown with strict transport restrictions in and out of the area. Wearing masks in public is now mandatory in some Chinese cities.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/swYPGOl9J9U\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/swYPGOl9J9U\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/swYPGOl9J9U\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/swYPGOl9J9U\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/swYPGOl9J9U\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "swYPGOl9J9U"
+      }
+    },
+    "contentDetails": {
+      "videoId": "swYPGOl9J9U",
+      "videoPublishedAt": "2020-01-28T10:23:23.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/VN2rqD7ylZMo0N7FWBnYI7ceVQg\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5EMEEwRUY5M0RDRTU3NDJC",
+    "snippet": {
+      "publishedAt": "2020-01-28T14:04:06.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: 50 confirmed cases outside China - BBC News",
+      "description": "According to the World Health Organization and national authorities, there have been more than 50 confirmed cases outside China - but no deaths.\n\nEight cases: Thailand\nSix: Japan\nFive: USA, Australia, Singapore, Taiwan\nFour: Malaysia, South Korea\nThree: France\nTwo: Vietnam\nOne: Nepal, Canada, Cambodia, Sri Lanka, Germany\nThe latest case to be confirmed is in the German state of Bavaria, only the fourth so far in Europe.\n\nIt involves a man who contracted the virus at a training event from a visiting Chinese colleague who reportedly did not show symptoms until she returned to China days later.\n\nIn Japan, authorities said a bus driver caught the virus after transporting tour groups from Wuhan earlier this month.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/JGAcQ6UeIIM\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/JGAcQ6UeIIM\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/JGAcQ6UeIIM\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/JGAcQ6UeIIM\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/JGAcQ6UeIIM\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "JGAcQ6UeIIM"
+      }
+    },
+    "contentDetails": {
+      "videoId": "JGAcQ6UeIIM",
+      "videoPublishedAt": "2020-01-28T14:03:46.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/MXevU7uxhVC0q13qWJTizEYZwX4\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS45ODRDNTg0QjA4NkFBNkQy",
+    "snippet": {
+      "publishedAt": "2020-01-29T10:32:00.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Australian scientists first to recreate virus outside China - BBC News",
+      "description": "Hundreds of foreign nationals are being evacuated from Wuhan, the centre of China's coronavirus outbreak, as more deaths and cases were confirmed.\n\nAustralia plans to quarantine its evacuees on Christmas island 2,000km (1,200 miles) from the mainland.\n\nJapan, the US and the EU are also repatriating their citizens.\n\nBritish Airways has suspended all flights to and from mainland China, as the UK's Foreign Office warned against \"all but essential travel\" there.\n\nSeveral other airlines have taken similar measures. United Airlines and Cathay Pacific are restricting flights, while Lion Air - one of the region's biggest airlines - is stopping flights to China from Saturday.\n\nCathay Pacific has also suspended inflight trolley services, changed some aspects of its meal offer, and stopped giving out hot towels, pillows, blankets and magazines in an effort to prevent the virus spreading.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/8Kw0Y3JqiPE\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/8Kw0Y3JqiPE\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/8Kw0Y3JqiPE\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/8Kw0Y3JqiPE\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/8Kw0Y3JqiPE\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8Kw0Y3JqiPE"
+      }
+    },
+    "contentDetails": {
+      "videoId": "8Kw0Y3JqiPE",
+      "videoPublishedAt": "2020-01-29T10:31:46.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/HpKbVYXR0lqDmOa0ZdGC-6PmK1Q\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4zMDg5MkQ5MEVDMEM1NTg2",
+    "snippet": {
+      "publishedAt": "2020-01-29T15:24:50.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Reporter begins quarantine at home after visiting infected zone - BBC News",
+      "description": "The BBC's Stephen McDonell has returned to his home in Beijing after visiting the Hubei province - the centre of the coronavirus outbreak.\n\nHe, like others who have been to the Chinese city of Wuhan and its surrounding area, is expected to stay away from his workplace for two weeks.\n\nAs evacuations of foreign nationals take place, he describes how even the capital feels deserted.\n\nHundreds of foreign nationals are being evacuated from Wuhan, the centre of China's coronavirus outbreak, as more deaths and cases are confirmed.\n\n\nHundreds of British citizens being flown back to the UK from Wuhan on Thursday will be put in quarantine for two weeks.\n\nIt comes as British Airways suspends all direct flights to and from mainland China because of the coronavirus outbreak.\n\nAustralia, Japan, the US and EU nations are also repatriating citizens.\n\nThe virus has caused more than 130 deaths, spreading across China and to at least 16 other countries.\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/zwCoPEOqU7o\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/zwCoPEOqU7o\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/zwCoPEOqU7o\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/zwCoPEOqU7o\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/zwCoPEOqU7o\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "zwCoPEOqU7o"
+      }
+    },
+    "contentDetails": {
+      "videoId": "zwCoPEOqU7o",
+      "videoPublishedAt": "2020-01-29T15:24:38.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/3Pj6c0Q77JNEmyRBodIlHFSriVE\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS41Mzk2QTAxMTkzNDk4MDhF",
+    "snippet": {
+      "publishedAt": "2020-01-30T07:00:52.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Britons on Wuhan flights to be quarantined - BBC News",
+      "description": "Hundreds of British citizens, waiting to be flown home from the region of China worst-affected by the new Coronavirus, will be put in quarantine for two weeks on their return to the UK. \n\nPassengers will be asked to sign a contract agreeing to commit to what's called 'supported isolation' although the timing of the flight and the destination is not yet known. British Airways has suspended all direct flights to and from mainland China because of the outbreak.\n\nThe virus which was first detected in the city of Wuhan has caused more than 130 deaths spreading from China and to at least 15 other countries. \n\nThe World Health Organisation warned on Wednesday that the whole world needs to take action to stop the spread of the new virus.\n\nPresented by Huw Edwards with reports from John Sudworth and Fergus Walsh.\n\nProduced for the BBC News at Ten\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/CAUUi8zEZBk\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/CAUUi8zEZBk\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/CAUUi8zEZBk\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/CAUUi8zEZBk\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/CAUUi8zEZBk\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "CAUUi8zEZBk"
+      }
+    },
+    "contentDetails": {
+      "videoId": "CAUUi8zEZBk",
+      "videoPublishedAt": "2020-01-29T22:29:51.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/burMs37M_ZkEf7JrNQcI2JUDvGk\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5EQUE1NTFDRjcwMDg0NEMz",
+    "snippet": {
+      "publishedAt": "2020-01-30T07:22:27.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Death toll rises as virus spreads to every Chinese region - BBC News",
+      "description": "The death toll of the coronavirus has risen to 170 and with a confirmed case in Tibet, the virus has now spread to every region in mainland China.\n\nChinese health authorities have said there were 7,711 confirmed cases in the country as of 29 January.\n\nInfections have also spread to at least 16 other countries.\n\nThe World Health Organization (WHO) will meet on Thursday to discuss whether the virus constitutes a global health emergency.\n\n\"In the last few days the progress of the virus, especially in some countries, especially human-to-human transmission, worries us,\" WHO Director-General Tedros Adhanom Ghebreyesus said on Wednesday, pointing to Germany, Vietnam and Japan.\n\n\"Although the numbers outside China are still relatively small, they hold the potential for a much larger outbreak.\"\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/6vHEJL-RVMk\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/6vHEJL-RVMk\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/6vHEJL-RVMk\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/6vHEJL-RVMk\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/6vHEJL-RVMk\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "6vHEJL-RVMk"
+      }
+    },
+    "contentDetails": {
+      "videoId": "6vHEJL-RVMk",
+      "videoPublishedAt": "2020-01-30T07:22:13.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/av0g5M5-HP9Y5KLxZvol_67bFks\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS41QTY1Q0UxMTVCODczNThE",
+    "snippet": {
+      "publishedAt": "2020-01-30T10:54:52.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Flight taking Britons out of Wuhan is delayed - BBC News",
+      "description": "A flight to bring about 200 British nationals back to the UK from coronavirus-hit Wuhan is unable to take off as planned on Thursday.\n\nIt is understood relevant permissions from Chinese officials have not yet come through.\n\nThe Foreign Office said it was \"working urgently\" to organise a flight to the UK \"as soon as possible\".\n\nThe virus has caused at least 170 deaths, spreading to every Chinese region and at least 16 other countries.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YxL7YTnCRRI\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YxL7YTnCRRI\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YxL7YTnCRRI\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YxL7YTnCRRI\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YxL7YTnCRRI\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 16,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YxL7YTnCRRI"
+      }
+    },
+    "contentDetails": {
+      "videoId": "YxL7YTnCRRI",
+      "videoPublishedAt": "2020-01-30T10:52:16.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/yy2Az7qTX_Yyni6fOM41IRTw6tE\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4yMUQyQTQzMjRDNzMyQTMy",
+    "snippet": {
+      "publishedAt": "2020-01-30T13:44:44.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Russia  closed its far-eastern border with China - BBC News",
+      "description": "The death toll from the coronavirus outbreak has risen to 170, and a confirmed case in Tibet means it has reached every region in mainland China.\n\nChinese health authorities said there were 7,711 confirmed cases in the country as of 29 January.\n\nInfections have also spread to at least 15 other countries.\n\nThe World Health Organization (WHO) will meet on Thursday to again consider whether the virus constitutes a global health emergency.\n\n\"In the last few days the progress of the virus, especially in some countries, especially human-to-human transmission, worries us,\" WHO Director-General Tedros Adhanom Ghebreyesus said on Wednesday.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_UsYMVK7FVQ\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_UsYMVK7FVQ\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_UsYMVK7FVQ\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_UsYMVK7FVQ\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_UsYMVK7FVQ\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 17,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_UsYMVK7FVQ"
+      }
+    },
+    "contentDetails": {
+      "videoId": "_UsYMVK7FVQ",
+      "videoPublishedAt": "2020-01-30T13:39:54.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/lEd44sNMMQiRKwtO0H0bx7ksL3k\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS45RTgxNDRBMzUwRjQ0MDhC",
+    "snippet": {
+      "publishedAt": "2020-01-31T10:18:40.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: British citizens fly home - BBC News",
+      "description": "World Health Organisation declares Corona Virus a global emergency as 150 British citizens prepare to leave on plane from China subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/7keUXhjy_qA\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/7keUXhjy_qA\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/7keUXhjy_qA\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/7keUXhjy_qA\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/7keUXhjy_qA\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 18,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "7keUXhjy_qA"
+      }
+    },
+    "contentDetails": {
+      "videoId": "7keUXhjy_qA",
+      "videoPublishedAt": "2020-01-30T22:36:16.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/vumBZzJFRDWq0kM_dLPFAdZ_Avo\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5ENDU4Q0M4RDExNzM1Mjcy",
+    "snippet": {
+      "publishedAt": "2020-01-31T12:09:07.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Two coronavirus cases confirmed in UK - BBC News",
+      "description": "Two people from the same family have tested positive for coronavirus in the UK, the chief medical officer for England has announced.\n\nIt is understood the patients were staying in a hotel in Yorkshire, before being taken overnight to a specialist centre in Newcastle.\n\nAt least 213 people in China have died from the virus, with almost 10,000 cases nationally.\n\nThere have been 98 cases in another 18 countries.\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/-RRq7BbOzuU\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/-RRq7BbOzuU\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/-RRq7BbOzuU\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/-RRq7BbOzuU\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/-RRq7BbOzuU\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 19,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-RRq7BbOzuU"
+      }
+    },
+    "contentDetails": {
+      "videoId": "-RRq7BbOzuU",
+      "videoPublishedAt": "2020-01-31T12:09:04.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/SefX3sa7SV8wKMf-XuvLU8jE3kY\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4yMDhBMkNBNjRDMjQxQTg1",
+    "snippet": {
+      "publishedAt": "2020-02-01T11:36:58.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: US bars foreigners who recently visited China - BBC News",
+      "description": "The US has declared a public health emergency over the spread of the coronavirus and said it would deny entry to any foreign nationals who have visited China in the past two weeks.\n\nUS citizens returning from Hubei province, where the outbreak started, will be quarantined for 14 days.\n\nAlmost 12,000 cases of the new virus have been confirmed, most of them in China, since it emerged in December.\n\nMore than 100 cases have been reported outside China, in 22 countries.\n\nOn Friday, Beijing said the death toll had risen by 46 to 259 - all of them in China and 249 in Hubei.\n\nEarlier, it emerged that the number of new coronavirus cases worldwide had overtaken that of the Sars epidemic, which spread to more than two dozen countries in 2003.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YH29gvwIG8U\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YH29gvwIG8U\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YH29gvwIG8U\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YH29gvwIG8U\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YH29gvwIG8U\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 20,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YH29gvwIG8U"
+      }
+    },
+    "contentDetails": {
+      "videoId": "YH29gvwIG8U",
+      "videoPublishedAt": "2020-02-01T11:36:54.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/jTBNVvM7v3UfaT_-dQMympagN_4\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5GM0Q3M0MzMzY5NTJFNTdE",
+    "snippet": {
+      "publishedAt": "2020-02-03T10:26:16.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: China shares in biggest fall in four years - BBC News",
+      "description": "Fears over the coronavirus triggered a sharp fall in Chinese shares when the market reopened after the Lunar New Year holiday.\n\nThe Shanghai Composite index closed nearly 8% lower, its biggest daily drop for more than four years.\n\nManufacturing, materials, and consumer goods companies were among the hardest hit, while healthcare shares soared.\n\nThe fall came despite China's central bank announcing new measures to ease the impact of the outbreak.\n\nThe People's Bank of China (PBOC) unexpectedly lowered short term interest rates as part of its attempts to relieve pressure on the economy from the rapidly spreading virus.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/I0mXcXew0JU\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/I0mXcXew0JU\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/I0mXcXew0JU\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/I0mXcXew0JU\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/I0mXcXew0JU\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 21,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "I0mXcXew0JU"
+      }
+    },
+    "contentDetails": {
+      "videoId": "I0mXcXew0JU",
+      "videoPublishedAt": "2020-02-03T10:26:06.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/xcdDaZ3kSfxmhlMJLcO2N43Ocsw\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4zRjM0MkVCRTg0MkYyQTM0",
+    "snippet": {
+      "publishedAt": "2020-02-04T08:17:51.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: First death outside China reported in Philippines - BBC News",
+      "description": "The coronavirus continues to spread at speed. This time a week ago, there were under 3000 cases in China. There are now more than 17,000 - and more than 360 people have died. Outside China, there are more than 150 confirmed cases  - and a fatality in the Philippines.\n\n\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/8dTelszbObM\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/8dTelszbObM\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/8dTelszbObM\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 22,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "8dTelszbObM"
+      }
+    },
+    "contentDetails": {
+      "videoId": "8dTelszbObM",
+      "videoPublishedAt": "2020-02-04T08:17:48.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/o0QjVBotXEMSYABewzdZClAHsXE\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS45NzUwQkI1M0UxNThBMkU0",
+    "snippet": {
+      "publishedAt": "2020-02-04T14:54:37.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Death toll rises to at least 427  - BBC News",
+      "description": "At least 427 people have died with more than 20,000 confirmed cases around the world, most of them in China.\n\nMore than two dozen nations have reported cases but, so far, no confirmations have been made across Africa or Latin America.\n\nOn Tuesday, three more Asian countries - Singapore, Malaysia and Thailand - confirmed infections among citizens who had not travelled to China.\n\nOfficials say 425 people have died in China and one in Hong Kong. One death has also been confirmed in the Philippines.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eavggz1suMY\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eavggz1suMY\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eavggz1suMY\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eavggz1suMY\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eavggz1suMY\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 23,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eavggz1suMY"
+      }
+    },
+    "contentDetails": {
+      "videoId": "eavggz1suMY",
+      "videoPublishedAt": "2020-02-04T14:54:30.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/phVLYfqzB0vgoN6iXRmZiEEc1OY\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5DNzE1RjZEMUZCMjA0RDBB",
+    "snippet": {
+      "publishedAt": "2020-02-05T07:00:21.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "The Chinese doctor who tried to warn others about coronavirus - BBC News",
+      "description": "In early January, authorities in the Chinese city of Wuhan were trying to keep news of a new coronavirus under wraps. When one doctor tried to warn fellow medics about the outbreak, police paid him a visit and told him to stop. A month later he has been hailed as a hero, after he posted his story from a hospital bed.\n\nDr Li was working at the centre of the outbreak in December when he noticed seven cases of a virus that he thought looked like Sars - the virus that led to a global epidemic in 2003. The cases were thought to come from the Huanan Seafood market in Wuhan and the patients were in quarantine in his hospital.\n\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/dRggIb5Je_w\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/dRggIb5Je_w\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/dRggIb5Je_w\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/dRggIb5Je_w\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/dRggIb5Je_w\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 24,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "dRggIb5Je_w"
+      }
+    },
+    "contentDetails": {
+      "videoId": "dRggIb5Je_w",
+      "videoPublishedAt": "2020-02-05T07:00:19.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/P_SyJPpQzNc_sK5iGlY0L1QNzG0\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS43MTI1NDIwOTMwQjIxMzNG",
+    "snippet": {
+      "publishedAt": "2020-02-06T08:04:51.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Ten passengers on cruise ship test positive for virus  - BBC News",
+      "description": "At least 10 people on board a cruise ship docked in the Japanese port of Yokohama have tested positive for coronavirus, health authorities say.\n\nAlmost 300 of the 3,700 people on the Diamond Princess have been tested so far. The number of infected could rise.\n\nThe checks began after an 80-year-old Hong Kong man who had been on the ship last month fell ill with the virus.\n\nSome 3,600 people on a second cruise ship docked in Hong Kong are also being tested.\nDavid Abel is one of 3,700 people in quarantine aboard a cruise ship docked near Yokohama, Japan.\n\nTen people who tested have positive for coronavirus have been taken off the ship and to hospital, but everyone else must remain on board the Diamond Princess.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/C1xWXTFZAvA\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/C1xWXTFZAvA\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/C1xWXTFZAvA\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/C1xWXTFZAvA\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/C1xWXTFZAvA\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 25,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "C1xWXTFZAvA"
+      }
+    },
+    "contentDetails": {
+      "videoId": "C1xWXTFZAvA",
+      "videoPublishedAt": "2020-02-06T08:04:27.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/9AjfvW5NlkPKq5_88eoAsyVjTLw\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5DQ0MyQ0Y4Mzg0M0VGOEYw",
+    "snippet": {
+      "publishedAt": "2020-02-07T10:02:56.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus kills Chinese whistleblower doctor - BBC News",
+      "description": "Dr Li Wenliang has died - this is the man who became a hero in China after trying to warn the medical community about the coronavirus. He was told to be quiet by the authorities - before weeks later being diagnosed with the virus himself. BBC Chinese reports that Dr Li was declared dead on Thursday evening. \n\nBut there's this too. \"The news of his death triggered a huge wave of popular reaction on Weibo - China\u2019s equivalent of Twitter. \n\nJournalists and doctors at the scene who do not want their names used, told the BBC that officials then decided to control the flow of information by ordering the doctor to be put back on life support and to change all official media reports from death to in critical condition.\" That attempt to shut down the story, looks to have failed - and official Chinese media are now again reporting the death of Dr Li.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/y6iikPfpXl0\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/y6iikPfpXl0\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/y6iikPfpXl0\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/y6iikPfpXl0\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/y6iikPfpXl0\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 26,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "y6iikPfpXl0"
+      }
+    },
+    "contentDetails": {
+      "videoId": "y6iikPfpXl0",
+      "videoPublishedAt": "2020-02-07T10:02:54.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/ot0Q8t5k7QjSCkDXAF6x44qoT6s\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4yQUE2Q0JEMTk4NTM3RTZC",
+    "snippet": {
+      "publishedAt": "2020-02-10T10:35:52.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus kills 97 in deadliest day so far - BBC News",
+      "description": "The number of people killed by the new coronavirus rose by 97 on Sunday, the highest number of casualties in a day.\n\nThe total number of deaths in China is now 908 - but the number of newly-infected people per day has stabilised.\n\nAcross China, 40,171 people are infected while 187,518 are under medical observation.\n\nMeanwhile, 60 more people have tested positive on a cruise ship quarantined in Japan - meaning 130 out of 3,700 passengers have caught the virus.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/soQq777tbP8\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/soQq777tbP8\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/soQq777tbP8\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/soQq777tbP8\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/soQq777tbP8\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 27,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "soQq777tbP8"
+      }
+    },
+    "contentDetails": {
+      "videoId": "soQq777tbP8",
+      "videoPublishedAt": "2020-02-10T10:35:42.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/pXpJ4leICZdOw4_stx6KwfKd8WI\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5DMkU4NTY1QUFGQTYwMDE3",
+    "snippet": {
+      "publishedAt": "2020-02-10T11:17:51.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Four more people diagnosed in UK - BBC News",
+      "description": "The number of people infected by the coronavirus in the UK has doubled to eight - after four more patients in England tested positive for the virus.\n\nIt comes as the government announced new powers to keep people in quarantine to stop the spread of the virus.\n\nIn order to do this the Department of Health has described the coronavirus as a \"serious and imminent threat\" to public health.\n\nThe overall risk level to the UK remains \"moderate\".\n\nThere have been more than 40,000 cases of the virus globally, mostly in China. The total number of deaths in China is now 908 - but the number of newly-infected people per day has stabilised.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ec6w3LyXFio\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ec6w3LyXFio\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ec6w3LyXFio\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ec6w3LyXFio\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/Ec6w3LyXFio\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 28,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "Ec6w3LyXFio"
+      }
+    },
+    "contentDetails": {
+      "videoId": "Ec6w3LyXFio",
+      "videoPublishedAt": "2020-02-10T11:17:09.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/8sMRJZc1f3QY6KCAle8SZRSLK9o\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS44Mjc5REFBRUE2MTdFRDU0",
+    "snippet": {
+      "publishedAt": "2020-02-11T09:58:02.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: China's Xi visits hospital in rare appearance - BBC News",
+      "description": "In a rare public appearance, China's President Xi Jinping has visited health staff in Beijing treating patients infected with the coronavirus. We also hear about how transmissible the virus may become outside of China.\n\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog\n\nThe number of people killed by the new coronavirus rose by 97 on Sunday, the highest number of casualties in a day.\n\nThe total number of deaths in China is now 908 - but the number of newly-infected people per day has stabilised.\n\nAcross China, 40,171 people are infected while 187,518 are under medical observation.\n\nMeanwhile, 60 more people have tested positive on a cruise ship quarantined in Japan - meaning 130 out of 3,700 passengers have caught the virus.",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/9M64_lbikDE\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/9M64_lbikDE\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/9M64_lbikDE\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/9M64_lbikDE\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/9M64_lbikDE\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 29,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "9M64_lbikDE"
+      }
+    },
+    "contentDetails": {
+      "videoId": "9M64_lbikDE",
+      "videoPublishedAt": "2020-02-11T09:57:31.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/IrHHMWcS2fEfAxeHcE5dI4c9AU4\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS43NDhFRTgwOTRERTU4Rjg3",
+    "snippet": {
+      "publishedAt": "2020-02-11T12:41:18.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Geneva meeting to discuss coronavirus outbreak - BBC News",
+      "description": "Health experts are due to gather in Geneva to discuss the coronavirus and talk about the scale of the growing worldwide epidemic and whether the drastic measures taken by China can work.\n\n \nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eUsBzMYIKdA\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eUsBzMYIKdA\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eUsBzMYIKdA\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eUsBzMYIKdA\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/eUsBzMYIKdA\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 30,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eUsBzMYIKdA"
+      }
+    },
+    "contentDetails": {
+      "videoId": "eUsBzMYIKdA",
+      "videoPublishedAt": "2020-02-11T12:38:43.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/--Tpd6DfaFz4QmMX_Hz4BFYyel0\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS41QUZGQTY5OTE4QTREQUU4",
+    "snippet": {
+      "publishedAt": "2020-02-12T07:17:55.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus disease named Covid-19 - BBC News",
+      "description": "The World Health Organization says the official name for the disease caused by the new coronavirus is Covid-19.\n\n\"We now have a name for the disease and it's Covid-19,\" WHO chief Tedros Adhanom Ghebreyesus told reporters in Geneva.\n\nIt comes after the death toll from the virus passed 1,000. Tens of thousands of people have been infected.\n\nDr Ghebreyesus called on the world to fight the new virus as aggressively as possible.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog\n\nThe word coronavirus refers to the group of viruses it belongs to, rather than the latest strain.\n\nThe virus itself has been designated SARS-CoV-2 by the International Committee on Taxonomy of Viruses.\n\nResearchers have been calling for an official name to avoid confusion and stigmatisation of any group or country.",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YK_gq3PC7TE\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YK_gq3PC7TE\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YK_gq3PC7TE\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YK_gq3PC7TE\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/YK_gq3PC7TE\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 31,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "YK_gq3PC7TE"
+      }
+    },
+    "contentDetails": {
+      "videoId": "YK_gq3PC7TE",
+      "videoPublishedAt": "2020-02-12T07:17:42.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/6auRIym2A1rEfXluECUgiBRgYnU\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4zRDBDOEZDOUM0MDY5NEEz",
+    "snippet": {
+      "publishedAt": "2020-02-13T10:14:26.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "The largest coronavirus outbreak outside China is on a cruise ship  - BBC News",
+      "description": "The largest coronavirus outbreak outside mainland China is not in a country, but on a cruise ship.\n\nIt's been more than a week since the Diamond Princess went into lockdown, after a previous passenger tested positive for the virus after disembarking.\n\nWith almost 500 out of 3,700 people on board tested, 174 people have now tested positive for coronavirus. Those still on board are in quarantine for another week.\n\nBut it's not just the Diamond Princess.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog\n\nOn another cruise ship in Hong Kong, 3,600 passengers people were quarantined because of fears that people on board might have the virus.\n\nThey were only allowed to disembark after tests came back negative.\n\nAnd a cruise ship carrying more than 1,450 passengers, which left Hong Kong on 1 February, was turned away from ports in Japan, Taiwan, Guam and the Philippines, despite having no infections on board. It has now been told it can dock in Cambodia.\n\nCruise ships have for years been referred to as \"floating Petri dishes\" - places ripe for the exchange of germs, and the spreading of illness.",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/5-wXsVC9RWc\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/5-wXsVC9RWc\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/5-wXsVC9RWc\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/5-wXsVC9RWc\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/5-wXsVC9RWc\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 32,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5-wXsVC9RWc"
+      }
+    },
+    "contentDetails": {
+      "videoId": "5-wXsVC9RWc",
+      "videoPublishedAt": "2020-02-13T10:14:09.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/FZV1olTvYh3e6zx1h97DgCL1gTU\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5CMEQ2Mjk5NTc3NDZFRUNB",
+    "snippet": {
+      "publishedAt": "2020-02-13T13:33:40.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "China coronavirus deaths and cases spike - BBC News",
+      "description": "Some 242 deaths from the new coronavirus were recorded in the Chinese province of Hubei on Wednesday - the deadliest day of the outbreak.\n\nThere was also a huge increase in the number of cases, with 14,840 people diagnosed with Covid-19.\n\nHubei has started using a broader definition to diagnose people - which accounts for most of the rise in cases.\n\nChina sacked two top officials in Hubei province hours after the new figures were revealed.\n\nUntil Wednesday's increases, the number of people with the virus in Hubei, where the outbreak emerged, was stabilising.\n\nBut the new cases and deaths in the province have pushed the national death toll above 1,350 - with almost 60,000 infections in total.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/RHl8Lh67bnY\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/RHl8Lh67bnY\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/RHl8Lh67bnY\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/RHl8Lh67bnY\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/RHl8Lh67bnY\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 33,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "RHl8Lh67bnY"
+      }
+    },
+    "contentDetails": {
+      "videoId": "RHl8Lh67bnY",
+      "videoPublishedAt": "2020-02-13T13:30:39.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/9wj9QSIGTja-M388QmBtiV-zRDM\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS42MTI4Njc2QjM1RjU1MjlG",
+    "snippet": {
+      "publishedAt": "2020-02-14T10:57:30.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Senior Chinese officials 'removed' as death toll rises- BBC News",
+      "description": "China has \"removed\" several senior officials over their handling of the coronavirus outbreak - as the death toll rises.\nSome 242 deaths from the new coronavirus were recorded in the Chinese province of Hubei on Wednesday, the deadliest day of the outbreak.\n\nThere was also a huge increase in the number of cases, with 14,840 people diagnosed with Covid-19.\n\nHubei has started using a broader definition to diagnose people, which accounts for most of the rise in cases.\n\nChina sacked two top officials in Hubei province hours after the new figures were revealed.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/cEKXaxiBiw4\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/cEKXaxiBiw4\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/cEKXaxiBiw4\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/cEKXaxiBiw4\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/cEKXaxiBiw4\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 34,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "cEKXaxiBiw4"
+      }
+    },
+    "contentDetails": {
+      "videoId": "cEKXaxiBiw4",
+      "videoPublishedAt": "2020-02-14T10:57:15.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/c6emvviUaGNx9agjyN2S-qYrl3E\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS45RjNFMDhGQ0Q2RkFCQTc1",
+    "snippet": {
+      "publishedAt": "2020-02-14T11:52:31.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Pakistanis stuck in Wuhan- BBC News",
+      "description": "Over the past few weeks countries across the world have been evacuating their citizens from Wuhan \u2013 the Chinese city at the centre of the Coronavirus outbreak.\n But Pakistan \u2013 which has close economic and political ties to China \u2013 has decided not to. The decision has caused anger amongst the relatives of the approximately 500 Pakistani university students living in the city. Secunder Kermani reports from Islamabad.\n\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/J1fSZesAS6s\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/J1fSZesAS6s\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/J1fSZesAS6s\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/J1fSZesAS6s\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/J1fSZesAS6s\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 35,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "J1fSZesAS6s"
+      }
+    },
+    "contentDetails": {
+      "videoId": "J1fSZesAS6s",
+      "videoPublishedAt": "2020-02-14T11:52:12.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/cu2zXvtVxzAnfmPMEedTFj9eidc\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS40QTA3NTU2RkM1QzlCMzYx",
+    "snippet": {
+      "publishedAt": "2020-02-17T10:58:35.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Americans from quarantined cruise ship flown from Japan - BBC News",
+      "description": "Two planes carrying hundreds of US citizens from a coronavirus-hit cruise ship have left Japan, officials say.\n\nOne plane has landed at a US Air Force air base in California, and its passengers will be isolated at military facilities for 14 days.\n\nThere were some 400 Americans on board the Diamond Princess. The ship with some 3,700 passengers and crew has been in quarantine since 3 February.\n\nMeanwhile, China reported a total of 2,048 new cases on Monday.\n\nOf those new cases, 1,933 were from Hubei province, the epicentre of the outbreak.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/lJx5Tm8Jdy8\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/lJx5Tm8Jdy8\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/lJx5Tm8Jdy8\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/lJx5Tm8Jdy8\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/lJx5Tm8Jdy8\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 36,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "lJx5Tm8Jdy8"
+      }
+    },
+    "contentDetails": {
+      "videoId": "lJx5Tm8Jdy8",
+      "videoPublishedAt": "2020-02-17T10:35:37.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/8kZv8k9cQaQNfKq__yYRcJb7kWA\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4xOTEzQzhBQzU3MDNDNjcz",
+    "snippet": {
+      "publishedAt": "2020-02-19T10:23:09.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: Largest study suggests elderly and sick are most at risk - BBC News",
+      "description": "Health officials in China have published the first details of more than 44,000 cases of Covid-19, in the biggest study since the outbreak began.\n\nData from the Chinese Centre for Disease Control and Prevention (CCDC) finds that more than 80% of the cases have been mild, with the sick and elderly most at risk.\n\nThe research also points to the high risk to medical staff.\n\nA hospital director in the city of Wuhan died from the virus on Tuesday.\n\nLiu Zhiming, 51, was the director of the Wuchang Hospital in Wuhan - one of the leading hospitals in the virus epicentre. He is one of the most senior health officials to die so far.\n\nHubei, whose capital is Wuhan, is the worst affected province in the country.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_W1VyicDcls\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_W1VyicDcls\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_W1VyicDcls\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_W1VyicDcls\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/_W1VyicDcls\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 37,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_W1VyicDcls"
+      }
+    },
+    "contentDetails": {
+      "videoId": "_W1VyicDcls",
+      "videoPublishedAt": "2020-02-19T10:20:50.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/0g8FyPPTVCDd3uRIWAMj09rY7KA\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS5GNDg1Njc1QzZERjlFRjE5",
+    "snippet": {
+      "publishedAt": "2020-02-20T10:41:36.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: China expels reporters for article it deemed racist - BBC News",
+      "description": "China has ordered three foreign journalists of the Wall Street Journal to leave the country over an opinion piece it said was \"racist\".\n\nThe article published on 3 February criticised the country's response to the deadly coronavirus outbreak.\n\nThe Chinese foreign ministry said it had asked the newspaper to apologise several times but it had declined.\n\nThe newspaper said the journalists - who had not written the opinion piece - were given five days to leave China.\n\nChina's decision came a day after the US State Department tightened rules on Chinese state media organisations operating in the US, classifying them as foreign missions.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/inpV4UytS6g\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/inpV4UytS6g\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/inpV4UytS6g\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/inpV4UytS6g\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/inpV4UytS6g\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 38,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "inpV4UytS6g"
+      }
+    },
+    "contentDetails": {
+      "videoId": "inpV4UytS6g",
+      "videoPublishedAt": "2020-02-20T10:41:24.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  },
+  {
+    "kind": "youtube#playlistItem",
+    "etag": "\"Fznwjl6JEQdo1MGvHOGaz_YanRU\/Bg1TQQO5_kNBdC-VIhBUc0MNnXY\"",
+    "id": "UExTM1hHWnhpN2NCV0NHSG92Ny1ENGZoVWsxeWhVSzBvMS4zQzFBN0RGNzNFREFCMjBE",
+    "snippet": {
+      "publishedAt": "2020-02-21T09:15:19.000Z",
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "Coronavirus: South Korea has seen its confirmed cases spike - BBC News",
+      "description": "South Korea has stepped up measures to contain the spread of the deadly new coronavirus, as confirmed infections rose sharply for a second day.\n\nPrime Minister Chung Sye-kyun said it was now an emergency situation.\n\nThe southern cities of Daegu and Cheongdo have been declared \"special care zones\". The streets of Daegu are now largely abandoned.\n\nSouth Korea has also locked down its military after several soldiers tested positive for the coronavirus.\n\nThe authorities have also told about 9,000 members of a religious group to self quarantine, after the sect was identified as a coronavirus hotbed.\n\nOn Friday, the country reported 52 new confirmed cases after 53 on Thursday. South Korea now has a total of 156 cases making it the largest cluster outside mainland China and the cruise ship docked off Japan.\n\nPlease subscribe HERE http:\/\/bit.ly\/1rbfUog",
+      "thumbnails": {
+        "default": {
+          "url": "https:\/\/i.ytimg.com\/vi\/qviEp0Tz6uQ\/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https:\/\/i.ytimg.com\/vi\/qviEp0Tz6uQ\/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https:\/\/i.ytimg.com\/vi\/qviEp0Tz6uQ\/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https:\/\/i.ytimg.com\/vi\/qviEp0Tz6uQ\/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https:\/\/i.ytimg.com\/vi\/qviEp0Tz6uQ\/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "BBC News",
+      "playlistId": "PLS3XGZxi7cBWCGHov7-D4fhUk1yhUK0o1",
+      "position": 39,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qviEp0Tz6uQ"
+      }
+    },
+    "contentDetails": {
+      "videoId": "qviEp0Tz6uQ",
+      "videoPublishedAt": "2020-02-21T09:15:09.000Z"
+    },
+    "status": {
+      "privacyStatus": "public"
+    }
+  }
+]
